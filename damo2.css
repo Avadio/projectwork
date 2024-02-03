@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    border: 0;
+}
+body{
+    
+}
+
+header{
+    background-color: #1C3180;
+    width: 1280px;
+    height: 150px;
+    top: -318px;
+    left: 1478px;
+    background-position: center;
+    text-decoration: solid;
+    margin: 50px auto;
+    padding: 80px;
+   border-top:#1C3180 solid -168px;
+   border-left: #1C3180 ;
+   border-width:  1280px;
+   border-bottom: 9px solid  #FE630E;
+   
+    
+
+}
+h1{
+    color:white;
+    text-align: center;
+    @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Noto+Sans+Kawi&family=Roboto:wght@100;700&display=swap');
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Noto Sans Kawi', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    padding-top: 40px;
+     
+}
+ main{
+    background-color: white;
+    width: 1280px;
+    height: 650px;
+    top: -318px;
+    left: 1478px;
+    box-sizing: border-box;
+    margin: 50px auto;
+
+
+ }
+
+ h3{
+    padding-top: 20px;
+    
+    color: black;
+    @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Noto+Sans+Kawi&family=Roboto:wght@100;700&display=swap');
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Noto Sans Kawi', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+font-size: 48px;
+line-height: 56.25px;
+margin-left: 235px;
+
+ }
+ img{
+    margin-top: 25px;
+    margin-left: 135px;
+    width: 968px;
+    height: 439px;
+    top: -6px;
+    left: 1634px;
+    border: 5px;
+ }
+
+ h6{
+
+    @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Noto+Sans+Kawi&family=Roboto:wght@100;700&display=swap');
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Noto Sans Kawi', sans-serif;
+font-family: 'Roboto', sans-serif;
+text-align: justify;
+margin-top: 40px;
+margin-right: px;
+font-weight: 400;
+font-size: 15px;
+margin-left: 235px;
+
+
+ }
+.text1{
+    color: #FE630E;
+}
+
+footer{
+    background-color: #1C3180;
+    width: 1450px;
+    height: 280px;
+    top: 606px;
+    left: 1478px;
+    margin: 50px auto;
+    
+}
+.text2{
+    
+    @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Noto+Sans+Kawi&family=Roboto:wght@100;700&display=swap');
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Noto Sans Kawi', sans-serif;
+font-family: 'Roboto', sans-serif;
+text-align: start;
+margin-left: 190px;
+font-weight:450px;
+font-size: 50px;
+color: #FE630E;
+
+}
+
+h5{
+    @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Noto+Sans+Kawi&family=Roboto:wght@100;700&display=swap');
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Noto Sans Kawi', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+font-size: 12px;
+text-align: justify;
+margin-top: 30px;
+margin-left: 190px;
+}
+.text3{
+    color: #FE630E;
+}
+
+.link1{
+    display: inline;
+    border:3px solid;
+    background-color: #FE630E;
+    color: white;
+    padding: 6px;
+    text-decoration: none;
+    margin-left: 190px;
+}
+
+.link2{
+    display:inline;
+    border:3px rgb(16, 214, 148) solid;
+    background-color:white;
+    color:#1C3180;
+    padding: 6px;
+    text-decoration: none;
+    margin-right: 190px;
+}
+
+
+ 
